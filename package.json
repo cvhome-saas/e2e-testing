@@ -1,0 +1,23 @@
+{
+  "name": "e2e-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvhome-saas/e2e-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cvhome-saas/e2e-testing/issues"
+  },
+  "homepage": "https://github.com/cvhome-saas/e2e-testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.6"
+  }
+}
