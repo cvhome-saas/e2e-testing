@@ -19,3 +19,5 @@ node_modules/
 /httpRequests/
 /.idea/
 /package-lock.json
+.claude/worktrees/
+.DS_Store
